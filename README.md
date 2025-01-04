@@ -1,6 +1,6 @@
 # Ex. No.   - PROTOTYPE PART MODEL DESIGN IN 3D PRINTER
 
-### DATE: 25.11.2024
+### DATE: 4.1.2024
 ## AIM: 
 ### To prototype the given part model design in 3D Printer.
 
@@ -50,7 +50,7 @@
 
 
 ### Name:M.DHANUJA
-### Register Number:24901079
+### Register Number:212224230057
 
 
 ## RESULT:
